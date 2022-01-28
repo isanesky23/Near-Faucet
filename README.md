@@ -1,13 +1,7 @@
 Near Faucet
 ==================
 
-The store built on Near protocol
-
-Demo: 
-
-Gitpod: 
-
-Slide: 
+You can claim free NEAR here 
 
 Quick Start
 ===========
